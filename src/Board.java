@@ -321,7 +321,7 @@ public class Board {
 				}
 			}
 		}
-			dd
+			
 		// Checking diagonals to left
 		for(int i = 3; i < 6; i++){
 			for(int j = 3; j < 7; j++){
