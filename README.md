@@ -2,6 +2,11 @@
 
 "Connect 4 is a two player game in which they take turns dropping discs into a seven-column, six-row vertically suspended grid. The pieces fall straight down, occupying the lowest available space within the column. The objective of the game is to be the first to form a horizontal, vertical, or diagonal line of four of one's own discs." 
 
+## Contributors
+Bill Chinis [@billchinis](https://github.com/billchinis) 
+
+Mateo Chronis [@mateochr](https://github.com/mateochr)
+
 In this implementation the player "O" is a MiniMax algorithm with alpha-beta pruning and player "X" is the user. The user can choose the difficulty of the game (1. Easy, 2. Normal, 3. Hard). There is no GUI, everything is on the cmd, including the board game and the menu which displays the score of the players.
 
 ## Classes
